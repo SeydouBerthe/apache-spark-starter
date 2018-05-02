@@ -10,4 +10,4 @@ Apache Spark Stater Project
 
  Then place it in the "bin" folder of "hadoop.home.dir", In this example it's "D:\\BIG_DATA_WS\\lib",
 
- you may change this place base on your environment.
+ you may change this place base on your environment .
