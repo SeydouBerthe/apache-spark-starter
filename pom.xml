@@ -20,10 +20,11 @@
             <version>${spark.version}</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.apache.spark/spark-mllib -->
         <dependency>
             <groupId>org.apache.spark</groupId>
-            <artifactId>spark-sql_2.11</artifactId>
-            <version>${spark.version}</version>
+            <artifactId>spark-mllib_2.11</artifactId>
+            <version>2.3.0</version>
         </dependency>
 
     </dependencies>

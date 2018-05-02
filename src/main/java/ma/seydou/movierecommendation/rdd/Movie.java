@@ -1,4 +1,4 @@
-package ma.seydou.worstmovie.rdd;
+package ma.seydou.movierecommendation.rdd;
 
 import java.io.Serializable;
 import java.util.regex.Pattern;
